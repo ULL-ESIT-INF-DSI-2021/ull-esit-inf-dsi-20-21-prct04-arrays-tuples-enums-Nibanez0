@@ -1,4 +1,4 @@
-### Informa práctica 4: Arrays, tuplas y enumerados
+### Informe práctica 4: Arrays, tuplas y enumerados
 
 ```
 Noelia Ibáñez Silvestre
